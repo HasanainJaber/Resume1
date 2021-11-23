@@ -1,0 +1,45 @@
+body {
+  background-color: #F2E9D0;
+}
+
+hr {
+  background-color: #F2E9D0;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: thick;
+  width: 5%;
+}
+
+img {
+  height: 300px;
+  width: 300px;
+}
+
+h1 {
+  color: #9C3D54;
+  text-align: justify;
+  text-decoration: ;
+  text-shadow: 0 0 1.5px #FF0000;
+  font-family: "Courier New", Courier, monospace;
+}
+
+h3 {
+  color: #9C3D54;
+  text-align: justify;
+  font-family: "Courier New", Courier, monospace
+}
+
+.my-hobbies {
+  color: #9C3D54;
+  font-family: "Courier New", Courier, monospace;
+  display: inline-block;
+  position: relative;
+
+}
+.contact-me{  color: #9C3D54;
+  font-family: "Courier New", Courier, monospace;
+  display: inline-block;
+  position: relative;
+   bottom:18px;
+ left:10px;}
